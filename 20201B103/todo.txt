@@ -1,0 +1,27 @@
+-- CAROUSEL (pagina de inicio)
+-- TRES COLUMNAS(DEBAJO DEL CAROUSEL ICONOS Y TEXTO) (pagina de inicio)
+-- TEXTO CON DISEÑO (PRIMERA LETRA)
+-- VIDEOS, AUDIO
+-- TEXTO CON ESTILOS LETRA GRANDE Y COLOR
+-- REDES SOCIALES
+-- DISEÑO RESPONSIVO
+-- NAVBAR FIJO 
+-- FOOTER ARREGLADO
+-- COLLAPSE
+-- ACORDEON
+
+-- MODAL  (REVISAR Diseño líquido) ** Geyner 
+-- CAMBIAR FORMS A DISEÑO LIQUIDO ** Geyner
+-- PUNTO 4 (recaptcha) ** Geyner y Felipe
+-- Diseños sólo CSS y arreglar los forms:  ** Geyner
+-- PUNTO 5 (encuesta) ** Alejandro y Jorge
+-- DOCUMENTO (entre todos) 
+
+############ PARTE 2 ############
+
+registro de usuarios Geyner
+login de usuarios Felipe
+
+form con ajax Jorge y Alejandro
+mult de matrices Jorge y Alejandro
+
